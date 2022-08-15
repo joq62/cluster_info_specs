@@ -1,0 +1,6 @@
+{cluster_name,"lgh_staging"}.
+{file_vsn,"0.1.0"}.
+{controllers,3}.
+{workers,3}.
+{cookie,"lgh_staging_cookie"}.
+{hosts,["c100","c200","c201"]}.
